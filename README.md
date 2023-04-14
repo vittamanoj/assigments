@@ -1,2 +1,2 @@
-# assigments
+# assignments
 inueron assignments 
